@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.fortsumter.movabletracks.mixin",
+  "refmap": "mixins.trackglue.refmap.json",
+  "mixins": [],
+  "client": [
+    "client.TrainRelocatorMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
